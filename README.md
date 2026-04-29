@@ -574,15 +574,15 @@ exit
 
 
 ##### SSH - Ports 22 + Encrypted text
-<img width="1920" height="1080" alt="Connection via telnet on router from PC3 showing its routing table" src="https://github.com/user-attachments/assets/7142558f-cc06-4a04-95b4-54098866ab2d" />
+<img width="1920" height="1080" alt="Simulation showing that SSH uses an encrypted connection" src="https://github.com/user-attachments/assets/095d731d-8fd0-462c-aea5-2911d68edbd0" />
 
 
 #### Observations
--Telnet sends everything in plain text 
--Anyone capturing traffic can read it 
--SSH encrypts all data end to end 
--Always use SSH use never Telnet in real world
--This is why port 23 is flagged as a vulnerability in security scans
+- Telnet sends everything in plain text
+- Anyone capturing traffic can read it 
+- SSH encrypts all data end to end 
+- Always use SSH use never Telnet in real world
+- This is why port 23 is flagged as a vulnerability in security scans
 
 	
 
