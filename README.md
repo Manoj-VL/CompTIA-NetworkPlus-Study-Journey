@@ -5,11 +5,15 @@ for the CompTIA Network+ exam using Jason Dion's
 Udemy course and Cisco Packet Tracer labs.
 
 ---
-
 ## About Me
-- Background: Mechanical Engineering
-- Goal: Cloud Security Engineer (Microsoft Azure)
-- Target: Network+ → Security+ → AZ-500
+| Field | Detail |
+|-------|--------|
+| Background | Mechanical Engineering |
+| Goal | Cloud Security Engineer — Microsoft Azure |
+| Certification Path | Network+ → Security+ → AZ-900 → AZ-500 |
+| Github | Packet Tracer Labs |
+| Try Hack Me |
+| CyberDefenders |
 
 ---
 
