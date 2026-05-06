@@ -12,7 +12,7 @@ Udemy course and Cisco Packet Tracer labs.
 | Background | Mechanical Engineering |
 | Goal | Cloud Security Engineer — Microsoft Azure |
 | Certification Path | Network+ → Security+ → AZ-900 → AZ-500 |
-| GitHub | [packet-tracer-labs](https://github.com/Manoj-VL/Packet-Tracer-Labs) |
+| Packet Tracer Labs [View](https://github.com/Manoj-VL/Packet-Tracer-Labs) |
 | CyberDefenders | [cyberdefenders-writeups](https://github.com/yourusername/cyberdefenders-writeups) |
 
 ---
@@ -29,11 +29,11 @@ Udemy course and Cisco Packet Tracer labs.
 
 ## Progress Tracker
 
-| Day | Date | Topics Covered | Lab | Status |
-|-----|------|---------------|-----|--------|
-| 1 | Apr 01 | Network Components, Resources, Geography | [Lab 1](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab1-Basic-Network/writeup.md) | ✅ |
-| 2 | Apr 02 | Network Topologies — Wired, Wireless, DC | [Lab 2](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab2-Extended-Network/writeup.md) | ✅ |
-| 3 | Apr 03 | OSI Layer 1-2 | [Lab 3](https://github.com/yourusername/packet-tracer-labs/blob/main/Lab3-MAC-Address-Table/writeup.md) | ✅ |
+| Day | Topics Covered | Lab | Status |
+|-----|---------------|-----|--------|
+| 1 | Network Components, Resources, Geography | [Lab 1](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab1-basic-network.md) | ✅ |
+| 2 | Network Topologies — Wired, Wireless DataCenter Topologies - 3 Tiered,Collapsed core,Spine and Leaf | [Lab 2](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab2-extended-network.md) | ✅ |
+| 3 | OSI Layer 1-2 | [Lab 3](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab3-mac-address-table.md) | ✅ |
 | 4 | Apr 04 | OSI Layer 3-4-6 | No lab | ⚠️ |
 | 5 | Apr 05 | OSI Layer 5-7, Encapsulation | No lab | ⚠️ |
 | 6-8 | Apr 06-08 | Health break | — | 🤒 |
