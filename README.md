@@ -34,8 +34,8 @@ Udemy course and Cisco Packet Tracer labs.
 | 1 | Network Components, Resources, Geography | [Lab 1](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab1-basic-network.md) | ✅ |
 | 2 | Network Topologies — Wired, Wireless DataCenter Topologies - 3 Tiered,Collapsed core,Spine and Leaf | [Lab 2](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab2-extended-network.md) | ✅ |
 | 3 | OSI Layer 1-2 | [Lab 3](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab3-mac-address-table.md) | ✅ |
-| 4 | Apr 04 | OSI Layer 3-4-6 | No lab | ⚠️ |
-| 5 | Apr 05 | OSI Layer 5-7, Encapsulation | No lab | ⚠️ |
+| 4 | OSI Layer 3-4-6 |[Lab 4](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab4-Routing-Table%2BHTTP-Server.md)  | ✅ |
+| 5 | Apr 05 | OSI Layer 5-7, Encapsulation | [Lab 5](https://github.com/Manoj-VL/Packet-Tracer-Labs/blob/main/lab5-Data-Encapsulation-in-Simulation-mode.md) | ✅  |
 | 6-8 | Apr 06-08 | Health break | — | 🤒 |
 | 9 | Apr 09 | OSI Full Revision | No lab | ✅ |
 | 10 | Apr 10 | Ports and Protocols | No lab | ✅ |
